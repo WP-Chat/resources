@@ -1,5 +1,7 @@
 # Design Utilities
 
+These are some design utilities, free unless specified otherwise, that we like to use when designing websites or other graphics. Use them to your advantage.
+
 ## Typography
 
 ### Type Scale
